@@ -2,8 +2,8 @@
 ## I'm Thalison Santos
 
 - I live in Brazil, northeast :desert_island: :sunglasses:
-- I'm working at MV Sistemas as a systems analyst :computer: :iphone:
-- I'm learning the technologies: React, React Native and NodeJS :man_technologist:
+- I'm a c# developer :computer: :iphone:
+- I have knowledge of technologies: C#, .Net Core, ASP.NET, SQL, Angular and JavaScript :man_technologist:
 
 
 ## My Skills
@@ -17,12 +17,11 @@ style="max-width:100%;">
 <img align= "center" alt="Js" height="60" width ="80" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
 style="max-width:100%;">
 </img> 
-<img align= "center" alt="Java" height="60" width ="80" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
+<img align= "center" alt="Postgre" height="60" width ="80" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
 style="max-width:100%;">
 </img> 
-<img align= "center" alt="Java" height="60" width ="80" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+<img align= "center" alt="Angular" height="60" width ="80" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
 style="max-width:100%;">
 </img>
-<img align= "center" alt="Java" height="60" width ="80" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"
-style="max-width:100%;">
+<img align= "center" alt="C#" height="60" width ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </img>
