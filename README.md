@@ -32,20 +32,11 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalison-santos&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalison-santos&layout=compact&theme=radical"/>
-</div>
-
----
-
 ## 📫 Connect with me  
 
-<a href="https://www.linkedin.com/in/thalison-santos/" target="_blank">
+<a href="[https://www.linkedin.com/in/thalison-santos/](https://www.linkedin.com/in/thalisonsantosdev/)" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>  
-<a href="mailto:thalison.santos@email.com">
+<a href="mailto:thalison.santos@hotmail.com">
   <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
