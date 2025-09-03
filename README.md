@@ -34,7 +34,7 @@
 
 ## 📫 Connect with me  
 
-<a href="[https://www.linkedin.com/in/thalison-santos/](https://www.linkedin.com/in/thalisonsantosdev/)" target="_blank">
+<a href="https://www.linkedin.com/in/thalisonsantosdev/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>  
 <a href="mailto:thalison.santos@hotmail.com">
